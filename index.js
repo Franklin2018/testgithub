@@ -2,6 +2,10 @@ function primermetodo() {
     console.log("primer metodo luis");
 }
 
+function septometodo() {
+    console.log("septoMetodo desde rama luis");
+}
+
 // "helo word"
 // "hello luis"
 
