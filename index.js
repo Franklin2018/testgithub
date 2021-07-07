@@ -10,6 +10,10 @@ function segundometodo() {
 }
 //"hola frankin"
 
-function tercermetodo(){
+function tercermetodo() {
     console.log("tercer metodo desde rama franklin");
+}
+
+function cuartometodo() {
+    console.log("cuarto metodo desde rama luis");
 }
