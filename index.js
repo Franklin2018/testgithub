@@ -1,10 +1,15 @@
+function primermetodo() {
+    console.log("primer metodo luis");
+}
+
 // "helo word"
-<<<<<<< HEAD
-<<<<<<< HEAD
 // "hello luis"
-=======
+
+function segundometodo() {
+    console.log("segundo metodo luis");
+}
 //"hola frankin"
->>>>>>> e84c70c3289b0443d188223f0be126b965e69ec1
-=======
-//"hola frankin"
->>>>>>> e84c70c3289b0443d188223f0be126b965e69ec1
+
+function tercermetodo(){
+    console.log("tercer metodo desde rama franklin");
+}
