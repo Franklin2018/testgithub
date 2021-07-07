@@ -8,3 +8,4 @@ function primermetodo() {
 function segundometodo() {
     console.log("segundo metodo luis");
 }
+//"hola frankin"
