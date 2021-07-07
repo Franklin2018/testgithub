@@ -9,6 +9,9 @@ function segundometodo() {
     console.log("segundo metodo luis");
 }
 //"hola frankin"
+function quintometodo() {
+        console.log("mi quinto metodo desde franklin");
+}
 
 function tercermetodo() {
     console.log("tercer metodo desde rama franklin");
